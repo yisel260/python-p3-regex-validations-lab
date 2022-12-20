@@ -1,5 +1,8 @@
 import re
 
+# NOTE: There are only a few tests included, so multiple solutions will work.
+# Feel free to encourage students to find oversights and add tests to this lab!
+
 name = r""
 name_regex = re.compile(name)
 
